@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Apples and bananas classes</title>
+        <style>
+        .apples{
+            background-color:limegreen;
+        }
+        
+        .bananas{
+            background-color:gold;
+        }
+        
+        .apples{
+            background-color:limegreen;
+        }
+        
+        .apples{
+            background-color:limegreen;
+        }
+            
+        </style>
+    </head>
+    <body>
+
+    <h1><strong class="apples">Apples</strong> and <strong class="bananas">Bananas</strong></h1>
+    
+    <p>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to ate ate ate 
+        <strong >ay-ples</strong> and
+        <strong >bay-nay-nays</strong>.<br>
+    I like to ate ate ate 
+        <strong>ay-ples</strong> and
+        <strong >bay-nay-nays</strong>.<br>
+    I like to eet eet eet
+        <strong >ee-ples</strong> and
+        <strong >bee-nee-nees</strong>.<br>
+    I like to eet eet eet
+        <strong >ee-ples</strong> and
+        <strong >bee-nee-nees</strong>.<br>
+    I like to ite ite ite
+        <strong >i-ples</strong> and
+        <strong >by-by-nys</strong>.<br>
+    I like to ite ite ite
+        <strong >i-ples</strong> and
+        <strong >by-by-nys</strong>.<br>
+    I like to ote ote ote
+        <strong >oh-ples</strong> and
+        <strong >bo-no-nos</strong>.<br>
+    I like to ote ote ote
+        <strong >oh-ples</strong> and
+        <strong >bo-no-nos</strong>.<br>
+    I like to ute ute ute
+        <strong >uupples</strong> and
+        <strong >bununus</strong>.<br>
+    I like to ute ute ute
+        <strong >uupples</strong> and
+        <strong >bununus</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+</p>
+
+    </body>
+</html>

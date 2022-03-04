@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+        <style>
+            h1{
+                color:  rgb(0,255,0);
+            }
+            
+            h2{
+                color:  rgb(255,140,0);
+            }
+            
+            h3{
+                color:  rgb(255,140,0);
+            }
+            
+             h4{
+                color:  rgb(255,140,0);
+            }
+            
+            body{
+                background-color:rgb(32,178,170);
+            }
+            
+        </style>
+        
+        
+        
+        
+    </head>
+    <body>
+    
+        <h1>Travel to Vietnam </h1>
+        <img src="https://avatars.mds.yandex.net/i?id=77166727b51114f23f7675f263887bd9-5579007-images-thumbs&n=13"alt="Vietnam">
+        
+  <h2 id="Beaches of Vietnam and their features">Beaches of Vietnam and their features</h2>
+  <img src="https://avatars.mds.yandex.net/i?id=43496dd3739b50c6f6ba2f99fb88cdc3-5906549-images-thumbs&n=13"alt="Beacheas">
+        
+       <p> Vietnam is <strong>famous for its paradisiacal beaches </strong> and people go there primarily for their sake. Beach resorts start a little further south on <em>Chang</em> - the most popular of them. Next comes <em>Phan Thiet</em> and <em> Mui Ne</em>,<strong> especially suitable for surfers</strong>.Below begins the <em>Mekong Delta</em>, as well as the industrial and <strong>tourist center</strong> of <em>Ho Chi Minh City</em>, <strong> aka Saigon</strong>. 
+Let's talk about the <em>Gulf of Siyam</em>, where the <strong>largest island of Vietnam is located - <em> Phu Quoc</em>, it is here that you need to look for paradise beaches with white sand and coconut palms</strong>.   .</p> 
+
+<h3 id="Attractions">Attractions</h3>
+<img src="https://avatars.mds.yandex.net/i?id=e45c9fcb48d6ff451db7aa8f16993fe7-5520101-images-thumbs&n=13"alt="Attractions">
+
+<p><strong>Sights of Vietnam </strong>
+At the main beach resort of the country in Nha Trang And Phu Quoc, as a rule, they fly with transfers to Hanoi and Ho Chi Minh City. It is <em>Hanoi</em> that is <strong>known for its lakes along the shores of which many pagodas and temples have been built.<em> Ruins of the Imperial Citadel and mausoleums of Ho Chi Minh</em>. 170 km east of the capital is the famous Halong Bay with its 3,000 islands. Near the city there are <em>underground tunnels of the Heap</em>, where you can walk through underground labyrinths that keep the memory of the Vietnam War. </strong>
+While in <em>Fukuoka</em>, visit the pearl Factory, here <strong>you can see the process of turning a small grain of sand into a magnificent pearl, there you can also buy jewelry as a souvenir.</strong>
+In <em>Hanoi</em>,<strong> you can visit an exciting performance-a puppet theater on the water.</strong></p>
+
+<h4 id="Food">Food</h4>
+<img src="https://avatars.mds.yandex.net/i?id=80c287c15f8352a4b441b03a07927327-5680887-images-thumbs&n=13"alt="Food">
+ 
+<p>One of the <em>most popular</em> types of food is <em>soup</em>. 
+It is worth trying <strong>Boon BO hue</strong>, it is cooked in meat broth and put shrimp paste and lemon grass. 
+There is also a separate<strong> Hot Pot song</strong>, this is a castrulka with broth on a gas burner, and around a dozen ingredients from meat vegetables and a sea of products.<strong> It is also worth noting that the Vietnamese love spicy food and spices,</strong>.</p>
+    </body>
+</html>

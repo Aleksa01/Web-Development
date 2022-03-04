@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                      <td>Pasta with shrimp</td>
+                      <td>Shrimp - Cream•- Spaghetti - Parmesan cheese - Butter•- Garlic•- Salt•- Ground black pepper</td>
+                      <td>200$</td>
+                      <tr>
+                          <td>Lasagna</td>
+                          <td>Minced meat-Bolognese sauce-Butter-Wheat flour-Olive oil-Milk-Ready-made dry lasagna sheets-Hard cheese</td>
+                          <td>250$</td>
+                      </tr>
+                      <tr>
+                          <td>Cream soup of porcini mushrooms</td>
+                          <td>potatoes-water-mushrooms -mushrooms -onions -cream 10-20% -salt to taste</td>
+                          <td>185$</td>
+                      </tr>
+                      
+            </tbody>
+        </table>
+
+    </body>
+</html>

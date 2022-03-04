@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+            
+            h1{
+               color:  rgb(139,69,19);
+            }
+            
+            p{
+               color:  rgb(139,69,19);
+            }
+            
+            body{
+               background-color:  rgb(240,230,140);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        <img src ="https://zagadki-dlya-detej.ru/wp-content/uploads/2020/07/jiraf.jpg" alt ="Zhirraf">
+        
+        <p>The <em>Zhiraff</em> is awesome because <strong>The giraffe is a record holder in the animal world in terms of height and is one of the largest animals. The growth of the giraffe reaches a height of up to 6 meters. At the same time, the giraffe's weight is 1 ton.The giraffe's 1/3 height is its neck, which is unusually long and slender, the giraffe's heart weighs 12 kg and passes 60 liters of blood per minute, creating a pressure 3 times higher than that of a human. As well as its color , the dark spots that are on its body are unique , as is the human imprint .</strong>.</p>
+        
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1> I wish </h1>
+        <ul>
+            <li>Finish my excellent studies</li>
+            <li>Move to Europe</li>
+            <li>Buy a lamborghini</li>
+        </ul>
+        <h2>Top 3 steps to My Wishes</h2>
+        <ol>
+        <li>I need to study every day</li>
+        <li>I need to work</li>
+        <li>Do not postpone actions in a long box</li>
+            
+        </ol>
+        
+    </body>
+</html>
